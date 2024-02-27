@@ -1,2 +1,5 @@
 # collabo
-inventory management system for clovacreate
+
+“Collabo” is a proprietary software for studio inventory & client management developed by ClovaCreate
+
+
